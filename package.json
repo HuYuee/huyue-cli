@@ -1,6 +1,6 @@
 {
   "name": "huyue-cli",
-  "version": "1.0.5",
+  "version": "1.0.9",
   "description": "个人专属命令行工具",
   "email": "1062887235@qq.com",
   "main": "index.js",
