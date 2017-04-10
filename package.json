@@ -1,0 +1,19 @@
+{
+  "name": "huyue-cli",
+  "version": "1.0.0",
+  "description": "个人专属命令行工具",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HuYuee/huyue-cli.git"
+  },
+  "author": "huyue",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HuYuee/huyue-cli/issues"
+  },
+  "homepage": "https://github.com/HuYuee/huyue-cli#readme"
+}
