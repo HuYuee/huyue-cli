@@ -1,6 +1,6 @@
 {
   "name": "huyue-cli",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "个人专属命令行工具",
   "email": "1062887235@qq.com",
   "main": "index.js",
@@ -10,6 +10,9 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/HuYuee/huyue-cli.git"
+  },
+  "dependencies": {
+    "commander": "^2.9.0"
   },
   "author": "huyue",
   "license": "ISC",
