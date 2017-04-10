@@ -1,11 +1,11 @@
 {
   "name": "huyue-cli",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "个人专属命令行工具",
   "email": "1062887235@qq.com",
   "main": "index.js",
   "bin": {
-    "hy": "./bin/hy"
+    "hy": "./bin/hy.js"
   },
   "repository": {
     "type": "git",
