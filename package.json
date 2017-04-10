@@ -2,9 +2,10 @@
   "name": "huyue-cli",
   "version": "1.0.0",
   "description": "个人专属命令行工具",
+  "email": "1062887235@qq.com",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "bin": {
+    "hy": "./bin/hy"
   },
   "repository": {
     "type": "git",
