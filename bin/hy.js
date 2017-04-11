@@ -16,7 +16,7 @@ program
     .alias('i')
     .description('初始化，进入傻瓜式选择中')
     .action(() => {
-        require('../command/init')
+        require('../command/init')()
     })
 
 program
