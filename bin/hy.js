@@ -12,6 +12,14 @@ program
     .description('输入不同的姓名称号，比如zcm或者全拼zhangchengming')
 
 program
+    .command('init')
+    .alias('i')
+    .description('初始化，进入傻瓜式选择中')
+    .action(() => {
+        require('../command/init')
+    })
+
+program
     .command('zhangchengming')
     .alias('zcm')
     .description('查看他对张诚铭的评价')
